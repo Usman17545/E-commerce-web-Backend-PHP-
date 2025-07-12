@@ -47,9 +47,3 @@ This is a PHP-based e-commerce web application that supports two types of users:
 | XAMPP      | Local server testing |
 
 ---
-
-## 💻 How to Run the Project Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Usman17545/E-commerce-web-Backend-PHP-.git
