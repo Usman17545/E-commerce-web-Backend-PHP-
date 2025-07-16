@@ -1,5 +1,10 @@
 # 🛒 E-Commerce Web Application (PHP + MySQL)
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1i45sXMbJRHnoYF-SnqQHcB8OyDi-qozu" alt="E-Commerce App Poster" width="300"/>
+</p>
+
+
 This is a PHP-based e-commerce web application that supports two types of users: **Admin** and **Normal User**. The system allows customers to browse and purchase products, and enables admin users to manage the product catalog and customer cart data.
 
 ---
